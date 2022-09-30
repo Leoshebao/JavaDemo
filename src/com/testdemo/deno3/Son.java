@@ -1,4 +1,4 @@
-package com.testdemo.deno2;
+package com.testdemo.deno3;
 
 public class Son extends Father {
     int money;

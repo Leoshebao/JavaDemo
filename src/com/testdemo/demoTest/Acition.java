@@ -1,4 +1,4 @@
-package com.testdemo.demo;
+package com.testdemo.demoTest;
 
 public interface Acition {
     abstract void sport();

@@ -1,4 +1,4 @@
-package com.testdemo.demo;
+package com.testdemo.demoTest;
 
 //继承父类，继承接口
 public class Employee extends People implements Acition {
